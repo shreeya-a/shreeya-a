@@ -26,5 +26,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreeya-a&" alt="shreeya-a" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreeya-a&" alt="shreeya-a" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shreeya-a)](https://git.io/streak-stats)
+
 
