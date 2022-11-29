@@ -25,6 +25,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreeya-a&show_icons=true&locale=en" alt="shreeya-a" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreeya-a&" alt="shreeya-a" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreeya-a&" alt="shreeya-a" /></p>[](url)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreeya-a&" alt="shreeya-a" /></p>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=shreeya-a)](https://git.io/streak-stats)
 
