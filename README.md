@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shreeya Adhikari</h1>
 <h3 align="center">while (!(succeed=try()));</h3>
 
-- 🔭 I’m currently working on **sth**
+- 🔭 I’m currently working on **pharmacy webiste**
 
-- 🌱 I’m currently learning **Laravel and PHP**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **html**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **shreeyadhikari11@gmail.com**
 
