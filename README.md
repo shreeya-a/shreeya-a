@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **myself**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Python**
 
 - 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **shreeyadhikari11@gmail.com**
 
-- ⚡ Fun fact **Watch a sunrise at least once a day!**
+- ⚡ Fun fact **Watch the sunrise at least once a day!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
