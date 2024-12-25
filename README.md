@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreeya Adhikari</h1>
 <h3 align="center">while (!(succeed=try()));</h3>
 
-- 🔭 I’m currently working on **myself**
+- 🔭 I’m currently working on **Myself**
 
 - 🌱 I’m currently learning **Python**
 
