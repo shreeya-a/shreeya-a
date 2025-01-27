@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shreeyadhikari11@gmail.com**
 
-- ⚡ Fun fact **Watch the sunrise at least once a day!**
+- ⚡ Fun fact **Watch the sun rise at least once a day!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
